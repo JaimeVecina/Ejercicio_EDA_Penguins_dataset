@@ -10,7 +10,7 @@ Este dataset se divide en 7 columas compuestas por 334 filas cada una en las que
 
 ## Objetivos
 
-El principal objetivo no es otro que aprender y seguir cogiendo experiencia en este mundillo. Continuar con la practica con el código, ver nuevas gráficas y empezar a pensar más de vez en cuando como un analísta de datos. Dentro de este objetivo se desprenden otros más en relación con el conjunto de datos con el que trabajamos. Nos posicionaremos en el rol de un analista de datos de manera independiente enfocado más a la captacion de clientes de una agencia de viajes. Se desprenden estos objetivos especificos:
+El principal objetivo no es otro que aprender y seguir cogiendo experiencia en este mundillo. Continuar con la practica con el código, ver nuevas gráficas y empezar a pensar más de vez en cuando como un analísta de datos. Dentro de este objetivo se desprenden otros más en relación con el conjunto de datos con el que trabajamos. Se desprenden estos objetivos especificos:
 
 1. Descargar un dataset de Seaborn interesante.
 
